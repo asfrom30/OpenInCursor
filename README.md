@@ -1,3 +1,5 @@
+![데모 화면](resources/demo.gif)
+
 # OpenInCursor
 
 > 이 프로젝트는 [OpenInCode](https://github.com/sozercan/OpenInCode)와 [iTerm2 Finder 통합 가이드](https://schlining.medium.com/integrate-iterm2-v-3-with-your-macs-finder-f3825acd3e0b)에서 영감을 받았습니다.
